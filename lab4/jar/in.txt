@@ -1,0 +1,3 @@
+jar cmvf src/META-INF/MANIFEST.MF lab4.jar Genre.class Assortment.class Book.class ISeller.class Journal.class Postcards.class Seller.class Shop.class Main.class SaxParser.class
+
+java -jar lab4.jar

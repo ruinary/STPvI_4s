@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="17.0.2" class="java.beans.XMLDecoder">
+ <object class="assortment.Assortment" id="Assortment0">
+  <void class="assortment.types.assort" method="getField">
+   <string>name</string>
+   <void method="set">
+    <object idref="Assortment0"/>
+    <string>Sousou no frieren</string>
+   </void>
+  </void>
+  <void class="assortment.types.assort" method="getField">
+   <string>publicationYear</string>
+   <void method="set">
+    <object idref="Assortment0"/>
+    <int>2020</int>
+   </void>
+  </void>
+ </object>
+</java>
